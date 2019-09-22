@@ -1,4 +1,4 @@
 # Дата и время | js
 
 
-https://soldatovnikolay.github.io/date-time-js/
+https://Only-to-top.github.io/date-time-js/
